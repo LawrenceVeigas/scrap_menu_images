@@ -3,3 +3,12 @@ __pycache__/
 images/
 debug.log
 sample.csv
+client_secrets.json
+google_credentials.json
+sheets.googleapis.com-python.json
+credentials.json
+backup/
+custom.py
+requests.csv
+uploaded.csv
+verified.csv
